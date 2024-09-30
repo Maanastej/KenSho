@@ -1,5 +1,4 @@
 # Creating a README file for the KenSho project based on the provided content.
-readme_content = """
 # KenSho
 
 *LLM-based Dream Interpretation for Better Diagnosis of Patients with Psychological Disorders and Trauma*
